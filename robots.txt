@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://manfan7.github.io/alcoCheck/sitemap.xml
